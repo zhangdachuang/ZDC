@@ -30,6 +30,7 @@ class Solution
 		return l;
 	}
 };
+//判断是否为回灵数
 int main (void)
 {
 	//string s="A man,a plan,a canal:Panama";
